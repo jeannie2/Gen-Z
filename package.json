@@ -1,0 +1,29 @@
+{
+    "name": "gen-z-slang",
+    "version": "1.0.2",
+    "description": "A simple NPM package to get random Gen Z slang terms",
+    "license": "MIT",
+    "author": "Jeannie N",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeannie2/Gen-Z"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "homepage": "https://github.com/jeannie2/Gen-Z#readme",
+    "bugs": {
+        "url": "https://github.com/jeannie2/Gen-Z/issues"
+    },
+    "main": "index.js",
+    "keywords": [
+        "Gen Z",
+        "fun",
+        "random",
+        "quotes"
+    ]
+}
